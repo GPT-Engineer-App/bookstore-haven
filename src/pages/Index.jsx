@@ -38,7 +38,7 @@ const Index = () => {
     <Container maxW="container.xl" py={10}>
       <VStack spacing={6}>
         <Heading as="h1" size="xl">
-          Welcome to the Bookstore
+          Welcome to ICELIFE BOOKSTORE
         </Heading>
         <InputGroup>
           <InputLeftElement pointerEvents="none" children={<FaSearch color="gray.300" />} />
