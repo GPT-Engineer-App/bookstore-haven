@@ -35,7 +35,7 @@ const Index = () => {
   ];
 
   return (
-    <Container maxW="container.xl" py={10}>
+    <Container maxW="container.xl" py={10} backgroundImage="url('/assets/library-study.jpg')" backgroundSize="cover" backgroundPosition="center center">
       <VStack spacing={6}>
         <Heading as="h1" size="xl">
           Welcome to ICELIFE BOOKSTORE
